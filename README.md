@@ -8,7 +8,7 @@ Hệ Thống Quản Lý Dữ Liệu Nông Nghiệp Phi Tập Trung Dựa Trên B
 <br>
 
 <!-- 👇 THÊM ẢNH POSTER Ở ĐÂY -->
-<img src="images/Dungnguyen(1).jpg">
+<img src="images/Dungnguyen.jpg">
 
 <br>
 **TRƯỜNG ĐẠI HỌC ĐẠI NAM**  

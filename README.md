@@ -7,8 +7,7 @@ Hệ Thống Quản Lý Dữ Liệu Nông Nghiệp Phi Tập Trung Dựa Trên B
  <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/logoDaiNam.png" width="150"> </p> <br>
 <br>
 
-<!-- 👇 THÊM ẢNH POSTER Ở ĐÂY -->
-<img src="images/Dungnguyen.jpg">
+![Poster dự án](Dungnguyen.jpg)
 
 <br>
 **TRƯỜNG ĐẠI HỌC ĐẠI NAM**  

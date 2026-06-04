@@ -5,7 +5,12 @@
 Hệ Thống Quản Lý Dữ Liệu Nông Nghiệp Phi Tập Trung Dựa Trên Blockchain
 
  <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/logoDaiNam.png" width="150"> </p> <br>
+<br>
 
+<!-- 👇 THÊM ẢNH POSTER Ở ĐÂY -->
+<img src="Dungnguyen(1).jpg" alt="RiceChain Poster" width="100%"/>
+
+<br>
 **TRƯỜNG ĐẠI HỌC ĐẠI NAM**  
 **Khoa Công nghệ thông tin**
 

@@ -4,7 +4,7 @@
 
 Hệ Thống Quản Lý Dữ Liệu Nông Nghiệp Phi Tập Trung Dựa Trên Blockchain
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_DAI_NAM.png/400px-Logo_DAI_NAM.png" alt="Đại học Đại Nam Logo" width="150"/>
+ <img src="https://raw.githubusercontent.com/anhminhvdvn/CanhBaoDotNhap/main/images/logoDaiNam.png" width="150"> </p> <br>
 
 **TRƯỜNG ĐẠI HỌC ĐẠI NAM**  
 **Khoa Công nghệ thông tin**
